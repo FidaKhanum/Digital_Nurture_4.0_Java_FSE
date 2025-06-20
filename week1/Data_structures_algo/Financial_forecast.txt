@@ -1,0 +1,15 @@
+1.	Understand Recursive Algorithms:
+
+Q)	Explain the concept of recursion and how it can simplify certain problems.
+Ans: Recursion is a programming technique where a method calls itself to solve a problem. It breaks down a problem into smaller, manageable sub-problems of the same type.
+	 Recursion is particularly useful when:
+	 A problem can be defined in terms of a smaller version of itself.
+	 It simplifies code by removing the need for explicit loops.
+	 
+4.	Analysis:
+
+Q)	Discuss the time complexity of your recursive algorithm.
+Q)  Explain how to optimize the recursive solution to avoid excessive computation.
+Ans: O(n)
+	 The best way to optimize recursive solutions in Java is to use memoization for reducing repeated calculations or switch to an iterative approach for better space and time efficiency. These optimizations ensure that the solution scales well and avoids performance bottlenecks.
+	 
